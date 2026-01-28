@@ -1,0 +1,22 @@
+RELEASE NOTES
+
+Game Project: Find The Drug Dealer
+Creator: Lindsay Chong
+Version: 2.0
+Date: 1-27-26
+
+NEW FEATURES
+added restrooms for both men and women 
+added clues in npc dialogue about ricky bobby's location
+added last words and requests from ricky bobby so he dies as you find him
+
+FIXES
+fixed some wall tiles
+
+IMPROVEMENTS
+redesigned bar interior
+some characters placed in different rooms
+animation in npc sprites
+
+KNOWN BUGS
+none
